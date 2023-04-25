@@ -1,0 +1,7 @@
+README.md
+setup.py
+multivae.egg-info/PKG-INFO
+multivae.egg-info/SOURCES.txt
+multivae.egg-info/dependency_links.txt
+multivae.egg-info/requires.txt
+multivae.egg-info/top_level.txt
